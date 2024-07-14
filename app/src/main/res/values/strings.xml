@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flower List</string>
+    <string name="loading">Loading…</string>
+    <string name="no_data">No Data</string>
+    <string name="no_network">No Network</string>
+    <string name="food_quantity">Food quantity</string>
+    <string name="food_name">Food name</string>
+    <string name="insert_food">Insert Data</string>
+    <string name="insert_image">Image</string>
+</resources>
