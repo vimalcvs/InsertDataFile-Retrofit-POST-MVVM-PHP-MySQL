@@ -36,8 +36,8 @@ This project demonstrates how to insert form data, including an image, name, and
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/InsertDataFile-Retrofit-MVVM-Post-PHP-MySQL.git
-cd InsertDataFile-Retrofit-MVVM-Post-PHP-MySQL
+git clone https://github.com/vimalcvs/Retrofit-POST-MVVM-Form-Image-Upload.git
+cd Retrofit-POST-MVVM-Form-Image-Upload
 ```
 
 ### Configure Android Project
